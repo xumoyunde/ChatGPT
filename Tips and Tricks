@@ -1,0 +1,4 @@
+1. ChatGPT replies and suggestions are currently limited to approximately 4,000 tokens, or 3,125 words in total.
+The code may hang while writing. If you encounter such a situation, you can write the following words:
+
+! Continue the code. Make sure the code is in a code editor box
